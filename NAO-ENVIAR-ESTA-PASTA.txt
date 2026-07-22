@@ -1,0 +1,8 @@
+ATENCAO: NAO ENVIE ESTA PASTA (public_html) PARA O SERVIDOR.
+
+Ela tem ~24.500 arquivos / ~550 MB por causa de node_modules.
+
+Envie apenas:
+  ..\rd-digital-enviar-SERVIDOR.zip  (~17 MB, ~2.000 arquivos)
+
+Leia: ..\LEIA-ME-ENVIAR.txt
